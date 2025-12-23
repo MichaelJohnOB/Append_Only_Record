@@ -1,0 +1,149 @@
+
+/* URL: https://www.linkedin.com/posts/mjob_landauers-principle-is-an-ethical-law-disguised-activity-7409349045212835840-5tJV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACm9K5EBgJbZ2AHgvLHcI6KfkqOMMiwz6HI*/
+
+
+/* Text:
+Landauer’s Principle Is an Ethical Law (Disguised as Physics)
+
+
+1. Opening Claim:
+
+
+Landauer’s principle is usually taught as a narrow result in information theory and thermodynamics.
+
+
+This framing hides what it actually is: a constraint on responsibility.
+
+
+
+2. The Physical Statement:
+
+
+Landauer's principle:
+
+
+-Any logically irreversible operation (erasure) necessarily dissipates heat.
+
+
+-There is no such thing as “free deletion.”
+
+
+
+3. The Structural Translation:
+
+
+-Erasure != disappearance.
+
+
+-Erasure = externalized cost.
+
+
+If information does not persist in the system, it persists as entropy in the environment.
+
+
+
+4. Why This Is an Ethical Statement:
+
+
+Ethics is about where costs go.
+
+
+Landauer proves: cost cannot be eliminated, only displaced.
+
+
+A system that erases without witness is a system that hides who pays.
+
+
+
+5. Computing Meets Biosphere:
+
+
+Heat dissipation is not abstract.
+
+
+It enters:
+
+
+-data centers
+
+
+-power grids
+
+
+-cooling water
+
+
+-atmospheric load
+
+
+In a heat-trapping biosphere, “just a bit more entropy” is no longer neutral.
+
+
+
+6. The Climate Implication:
+
+
+Every overwrite, every discarded log, every “stateless” optimization:
+
+
+-converts memory into heat
+
+
+-converts accountability into environmental burden
+
+
+Climate change is not only an energy problem.
+
+
+It is an erasure problem.
+
+
+
+7. Cultural Blind Spot:
+
+
+Modern computing normalizes:
+
+
+-overwrite
+
+
+-deletion
+
+
+-loss of lineage
+
+
+This mirrors economic systems that:
+
+
+-hide labor
+
+
+-hide extraction
+
+
+-hide harm
+
+
+
+8. The Invariant:
+
+
+No erasure without consequence.
+
+
+Physics enforces what ethics has been trying to say for millennia.
+
+
+
+9. Closing Line:
+
+
+Landauer didn’t just limit computation.
+
+
+He revealed a law civilization keeps trying to violate.*/
+
+
+/* Note: No silent edits! */
