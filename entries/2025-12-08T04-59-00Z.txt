@@ -1,0 +1,89 @@
+
+/* URL: https://www.linkedin.com/posts/mjob_even-the-editor-is-not-innocent-and-neither-activity-7403961473255075840-irxH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACm9K5EBgJbZ2AHgvLHcI6KfkqOMMiwz6HI*/
+
+
+/* Text:
+Even the Editor Is Not Innocent and Neither Is the Machine Beneath It:
+
+
+If I am building a system where no truth can be erased, then even my tools must obey that law.
+
+
+Vim is brilliant but it edits by overwriting. Buffers mutate. History disappears. Erasure, inherited from the Unix philosophy, is the default assumption of modern computing.
+
+
+I SEE IT:
+
+The casual "I’ll just overwrite this buffer in vim” is the computational expression of a deeper cultural reflex:
+
+    -> Products are disposable. Nothing must endure. We overwrite instead of repair. We replace instead of preserve. Both presume erasure without consequence.
+
+
+But today I realized something deeper:
+
+
+It’s not just the editor. The entire computing stack assumes destruction.
+
+
+Install Gentoo and you see it immediately:
+
+1.) Package managers overwrite without witness. 
+
+2.) Build logs vanish. 
+
+3.) System state mutates with no lineage. 
+
+4.) No chain of custody. 
+
+5.) No provable truth.
+
+
+Drop down to bare metal and it gets even starker: 
+
+1.) Firmware updates erase themselves.
+
+2.) Flash memory requires block-erasure to write anything.
+
+3.) CPUs mutate registers every cycle with no record.
+
+4.) Filesystems hide intermediate states for “convenience.”
+
+
+Modern computing was built on an amnesia model:
+
+Destroy -> Write ->  Forget -> Repeat.
+
+
+For DCC -> NEF -> EVM (ethical VM), this is a fatal contradiction.
+
+
+I cannot build an accountability substrate on top of a forgetful machine. I cannot build a truthful system using tools that silently destroy truth.
+
+
+I say eventually throw away the transistor and go back to the drawing board!
+
+
+When computation must preserve witness, it forces a reckoning with the physical substrate itself. Hardware, and even the physical environment architecture built around it, must eventually adapt to the same invariants that govern the software and ethical layers. Otherwise, truth leaks.
+
+
+So before anything else, I have to build my own editor: 
+
+1.) an append-only, witness-preserving workspace where no change is ever lost.
+
+2.) No silent mutations.
+
+3.) No hidden destruction.
+
+4.) Every keystroke becomes evidence.
+
+
+Practically, before editors, before tooling, and before hardware an original ISA and a fully inspectable emulator come first. The goal is not performance, but coherence: no silent mutation, no hidden destruction, and no place for truth to leak.
+
+
+If the foundation is built on erasure, the whole system becomes a lie. 
+
+
+Lastly, as it turns out, the file ontology is also not innocent. I will explain further in another post.*/
+
+
+/* Note: No silent edits! */
