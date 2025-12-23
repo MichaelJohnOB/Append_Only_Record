@@ -1,0 +1,137 @@
+
+/* URL: https://www.linkedin.com/posts/mjob_technical-post-1-long-term-project-setup-activity-7408182316939997184-01RQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACm9K5EBgJbZ2AHgvLHcI6KfkqOMMiwz6HI*/
+
+
+/* Text:
+Technical Post 1: Long-Term Project Setup & Early Architectural Constraints
+
+   Purpose of this post: This post documents deliberate technical constraints chosen at the very beginning of a long-horizon systems project. These decisions are not about convenience or preference. They are about auditability, determinism, portability, and ethical control of execution. This is a decision record, not a tutorial.
+
+
+1. Why I’m Skipping All Linux Distributions:
+
+   -Linux is powerful, but too opinionated and too opaque for early-stage epistemic control.
+
+   -Hidden boot logic, implicit dependencies, distro-specific assumptions.
+
+   -I want to see every layer I rely on, even if that slows progress.
+
+   -Linux may return later after I can justify it.
+
+
+2. Why Windows + MSYS2 + MinGW-w64 + QEMU:
+
+Plus: tinyCC, Clang, MSVC
+
+This combination gives me:
+
+   -A stable host OS with widespread hardware support
+
+   -A Unix-like toolchain environment without committing to Linux
+
+   -Multiple compilers to cross-check assumptions
+
+   -Immediate artifact production
+
+   -This is about instrumentation and redundancy, not ideology.
+
+
+3. Why I Need an ARM Cortex-M0+ Emulator:
+
+   -Small, simple, well-documented ISA
+
+   -No speculative execution, no MMU complexity
+
+   -Deterministic enough to reason about instruction-by-instruction
+
+   -Widely understood, shared reference point
+
+   -This is a temporary moral compromise, not the final machine.
+
+
+4. Why I’m Avoiding Direct Bare-Metal Programming (For Now):
+
+   -Vendor firmware blobs introduce invisible execution
+
+   -Boot ROMs hide behavior I cannot audit
+
+   -Bare-metal too early creates false certainty
+
+Emulation first:
+
+    -Determinism
+
+    -Replayability
+
+    -Logged state transitions
+
+
+5. Why I Will Not Use Any Established libc:
+
+   -libc encodes decades of unexamined assumptions
+
+   -I don’t want performance; I want explicitness
+
+   -Memory, IO, and error semantics must be owned, not inherited
+
+   -If I don’t understand it line by line, it doesn’t belong yet.
+
+
+6. Why C89 (Maximum Portability):
+
+   -Smallest shared denominator across toolchains
+
+   -Forces discipline
+
+   -No hidden abstractions
+
+   -Can run on 90s hardware, modern systems, and emulators alike
+
+   -C89 is not nostalgia. It’s constraint as clarity.
+
+
+7. Org Setup, Four-Repo Pipeline:
+
+This mirrors the logical separation of concerns in the system:
+
+   -NEF/:  append-only event format & capture tools
+
+   -EVM/: policy-enforcing VM core
+
+   -Mapping/: analysis & tools
+
+   -OS/: runtime & demos
+
+No repo absorbs another. No layer hides inside another.
+
+
+8. QEMU as Scaffold, Not Destination:
+
+What QEMU provides:
+
+   -A temporary scaffold
+
+   -A known ISA
+
+   -The ability to ship artifacts now
+
+   -Iterate in a full machine (boot + IRQ + UART)
+
+
+What QEMU is not:
+
+   -The end state
+
+   -ARM is a reference, not a foundation. Boolean-era ISAs are not where this ends.
+
+
+Staged Trajectory: 
+
+   -Stage 0: QEMU + Known ISA for basic artifacts
+
+   -Stage 1: Minimal Self-Defined Emulator
+
+   -Stage 2: EVM (Ethical / Event VM)*/
+
+
+/* Note: No silent edits! */
