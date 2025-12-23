@@ -1,0 +1,77 @@
+
+/* URL: https://www.linkedin.com/posts/mjob_mode-live-reasoning-log-this-entry-reflects-activity-7405631729773867008-LWgp?utm_source=share&utm_medium=member_desktop&rcm=ACoAACm9K5EBgJbZ2AHgvLHcI6KfkqOMMiwz6HI*/
+
+
+/* Text:
+Mode: Live reasoning log. This entry reflects real-time synthesis and may be revised as new information is integrated. 
+
+
+Weekly update. No end date. 
+
+
+I am creating a public record, which has already started, that runs at least one entry per week for the mission of engineering accountability mechanisms for civilization so it can no longer hide from its shadow, aka the unmodeled labor, extraction, and ecological costs that current systems depend on but do not publicly account for.
+
+
+The Record will focus on what I worked on, what failed, and what changed.
+
+
+| Attribution Invariant:
+
+Any person who contributes insight, labor, critique, code, data, or material support to this work will be attributed permanently and cryptographically in The Record.
+
+
+Attribution is append-only, non-revocable, and independent of power, status, or outcome. No contribution may be absorbed, anonymized, or rewritten into authorship by omission.
+
+
+This applies retroactively and prospectively, including informal conversations, reviews, and corrections. |
+
+
+| Mediums For Communication: 
+
+1. Essays/Memos/etc: plain text, markdown, pdf, etc.
+
+2. Maths/Physics: axioms, proofs, theorems, equations, and system diagrams. 
+
+3. Benchmarks: performance, reproducibility, auditability, and failure modes.
+
+4. Visual media: drawings, photos, and videos.
+
+5. Hardware: minimal specifications for a new device.
+
+6. Architecture/Robotics: mockups for a new physical structure/robot incorporating a human in the loop.
+
+7. Programming/TCS: minimal self-contained C89 binary artifacts with documentation. |
+
+
+Failure is logged, not punished. Silence is the only violation. This is not for motivation. It is a constraint.
+
+
+The Record is active upon declaration; this statement itself is a committed entry. I am accountable retroactively and continuously, even if I drift, doubt, or am wrong.
+
+
+I can change direction.
+
+Yet, I cannot pretend I did not.
+
+
+| Operational Constraints:
+
+1. No disappearing.
+
+2. No rewriting history.
+
+3. No clean exits. |
+
+
+| Technical Inspiration: 
+
+The Record is an external constraint designed to reduce my entropy production (in the information theory sense) by forcing continuity, preserving state, and preventing self-deceptive rewrites. |
+
+
+The Record also constrains me, so I may keep my word. I am not asking anyone to believe me. I am leaving evidence behind.
+
+
+Lastly, this system forbids savior delusion by design: Every claim is permanently inspectable, correctable, and allowed to fail in public.*/
+
+
+/* Note: No silent edits! */

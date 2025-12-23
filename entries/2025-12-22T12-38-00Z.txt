@@ -1,0 +1,84 @@
+
+/* URL: https://www.linkedin.com/posts/mjob_algebra-formal-specification-computation-activity-7408969315716104192-6Ari?utm_source=share&utm_medium=member_desktop&rcm=ACoAACm9K5EBgJbZ2AHgvLHcI6KfkqOMMiwz6HI */
+
+
+/* Text:
+Algebra (formal specification), computation model, and PCB come first. The order matters. I got it wrong before. This is the second (maybe third depending on how one counts) correction.
+
+
+In a long-horizon computing system, the algebra, computation model, and PCB design must come first. in that order.
+
+
+Why?
+
+
+Because each layer physically constrains the next.
+
+
+1) Algebra (Semantics first)
+
+Define what operations mean:
+
+-What relations exist
+
+-What is conserved
+
+-What is forbidden
+
+-What cannot be erased
+
+If this isn’t explicit, everything downstream is accidental.
+
+
+2) Computation model (Execution semantics)
+
+Given the algebra, define:
+
+-State transitions
+
+-Memory rules
+
+-Determinism boundaries
+
+-Timing guarantees
+
+This is where “what is allowed to happen” becomes formal.
+
+
+3) PCB design (Physics locks it in)
+
+The board is not neutral.
+
+-Bus topology
+
+-Clocking
+
+-Memory layout
+
+-I/O paths
+
+Once copper is laid, software freedom collapses to what the physics permits.
+
+
+Only after those are fixed does it make sense to build:
+
+
+4) DB, SCM, CLI, and tooling:
+
+These are projections, not truth. They must serve the invariants established above, not define them.
+
+
+Key realization:
+
+Software architecture does not start in code. It starts in algebra and ends in copper, with computation as the bridge. Everything else is downstream bookkeeping. 
+
+
+This post is a correction record, not a manifesto.
+
+
+And yes! On a personal note:
+
+I’ve wanted an excuse to finally dip my toes into materials science and engineering. Turns out PCB design is a very good one. */
+
+
+/* Note: No silent edits! */
