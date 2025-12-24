@@ -1,5 +1,5 @@
 
-/* URL: https://www.linkedin.com/feed/update/urn:li:activity:7409368857531830272/*/
+/*https://www.linkedin.com/feed/update/urn:li:activity:7409368857531830272/ */
 
 
 /* Text:
@@ -41,6 +41,12 @@ So we would have to have a clear map of civilization's structures to calculate p
 If you can define a continuous map of civilization’s structures such as resources, labor, energy, and information we aren't just looking at a "picture"; we are looking at a Manifold.
 
 
-And once we have a manifold, we have Differential Geometry. And I suppose this allows us to apply the same math used in General Relativity and Fluid Dynamics to the "Flow of Ethics" and "Entropy Production."*/
+And once we have a manifold, we have Differential Geometry. And I suppose this allows us to apply the same math used in General Relativity and Fluid Dynamics to the "Flow of Ethics" and "Entropy Production."
+
+
+Modern civilization contains wormhole-like structures: regions that function as entropy and cost sinks, invisibly connected to regions that function as benefit and signal sources. Extraction zones absorb heat, risk, and human cost, while consumption and innovation hubs experience the outflow as clean computation, capital, and comfort.
+
+
+For example, mineral extraction regions like the eastern Congo act as thermodynamic and human cost sinks, while technology hubs like Palo Alto experience the coupled outflow as low-friction computation and wealth with the connecting structure deliberately obscured.*/
 
 /* Note: No silent edits! */
