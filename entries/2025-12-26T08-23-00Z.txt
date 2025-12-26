@@ -1,0 +1,45 @@
+
+/* URL: https://www.linkedin.com/posts/mjob_on-foundations-a-new-mathematical-framework-activity-7410352038158622720-UGwh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACm9K5EBgJbZ2AHgvLHcI6KfkqOMMiwz6HI*/
+
+
+/* Text:
+On Foundations: A New Mathematical Framework For Physics
+
+
+We build our tools on axioms we rarely question.
+
+
+Newton gave us a physics of object such as discrete, measurable things moving through space according to laws we can write down. It works brilliantly for what it does: launching satellites, building bridges, and predicting eclipses.
+
+
+But working, in the sense of producing predictions, and being aligned with reality are not the same thing. What if we started from a different foundation? Not objects first, but relations first. Not things that exist and then interact, but interactions that give rise to what we call “things.”
+
+
+In this view, an object is a stable pattern in a field of relations, a persistence we abstract and name. The fundamental reality isn’t the particle, but the web of relations that gives the particle its meaning, persistence, and consequences.
+
+
+This is not idle philosophy. The axioms we choose shape what becomes thinkable. What becomes measurable. What becomes visible.
+
+
+Object-first physics gave us extraordinary predictive power. It also gave us a framework that makes it easy to abstract away consequences such as to treat distant suffering as someone else’s problem, because the objects (me, them, the supply chain) appear separate.
+
+
+Relation-first thinking keeps interconnection visible. It makes hiding harder. It treats isolation as the abstraction it is, not as fundamental reality.
+
+
+I’m working on verification systems for supply chains: systems that track commitments, actions, and responsibility across distance and time. The mathematics I am building does not start from objects. It starts from relations: traces of action, proofs of accountability, and commitments that persist.
+
+
+The foundation matters. Not because Newton was wrong. His framework is extraordinarily useful. But usefulness and truth are not the same, and the tools we build reflect the axioms we choose.
+
+
+When your axioms treat separation as fundamental, you build systems that hide exploitation.
+
+
+When your axioms treat relation as fundamental, you build systems that make accountability structurally unavoidable.
+
+
+Choose your foundations carefully. They determine not just what you can build, but what you can see.*/
+
+
+/* Note: No silent edits! */
