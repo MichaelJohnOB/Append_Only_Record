@@ -1,0 +1,51 @@
+
+/* URL:*/
+
+
+/* Text:
+My Core Thesis (Stated Precisely)
+
+
+I am asserting two separable but linked claims: Metaphysics is upstream of mathematical formalism.
+
+
+Formal systems encode prior ontological commitments, whether acknowledged or not. Modern mathematics and physics largely inherit an object-centric metaphysics.
+
+
+This metaphysical orientation is historically contingent (Greek -> Enlightenment), not inevitable. Alongside the mathematical and physical work, I explore an alternative relation-first metaphysical framework, drawn from Jewish monotheistic thought, not as belief, but as a philosophical structure.
+
+
+In this framework:
+
+1. Relation is primary. 
+
+2. Entities are derivative, not primitive. 
+
+3. Autonomous substance is rejected in favor of continuous dependence. 
+
+
+This is a philosophical-structural claim, not theology.
+
+
+More generally:
+
+Every formal system presupposes an ontology: what counts as primitive, what may persist, and what relations are admissible. These presuppositions are metaphysical even when left implicit.
+
+
+From this perspective:
+
+Object-first metaphysics naturally privileges set-like constructions. Relation-first metaphysics naturally privileges graph-like or process-based constructions.
+
+
+I am not importing religion into mathematics.
+
+
+I am making explicit the metaphysical assumptions already embedded in our dominant formalisms, and showing that alternative metaphysical commitments lead to different mathematical primitives and constraints.
+
+
+Jewish monotheism, as I understand it, provides one such candidate framework:
+
+a non-object metaphysics characterized by absolute unity, non-independent existence, and relation as primary.*/
+
+
+/* Note: No silent edits! */
