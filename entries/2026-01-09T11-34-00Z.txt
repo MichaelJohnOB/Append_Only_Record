@@ -1,0 +1,32 @@
+
+/* URL: https://www.linkedin.com/posts/mjob_the-topology-of-moral-distance-in-bureaucratic-activity-7415475402799828992-s1AN */
+
+
+/* Text:
+The Topology of Moral Distance in Bureaucratic Atrocity: Mapping of Nazi Camps to Modern Enslaved Labor.
+
+Let F denote the distance of German civilians from Nazi extermination camps.
+
+Let G denote the distance of modern global consumers from enslaved labor in contemporary supply chains.
+
+I argue that the mapping F -> G is homeomorphic with respect to morally relevant topological structure. A homeomorphism preserves topological properties under continuous deformation. If such a mapping holds, then the structural relationship between German civilians and Nazi camps is topologically equivalent to the relationship between modern consumers and supply chain slavery, despite differences in historical context and material implementation.
+
+The following invariants are preserved:
+
+1. Connectivity: how information flows or is blocked.
+2. Boundaries: what separates knowing from not knowing.
+3. Openness: whether the system allows observation or enforces opacity.
+4. Compactness: whether awareness converges in finite steps or is deferred through infinite regress.
+
+Hannah Arendt documented the topology of F.
+
+Modern systems have reconstructed the same topology with different material instantiation:
+
+    -F: railroad schedules, paperwork, euphemisms such as “special treatment,” and camps placed outside city limits.
+
+   -G: logistics software, procurement contracts, “ethical sourcing” certifications, and mines located in the Congo.
+
+The implementation differs. The topological structure of distance as moral insulation is preserved. This is not metaphor. It is a structural claim about how systems distribute responsibility in order to hide atrocity.*/
+
+
+/* Note: No silent edits! */
