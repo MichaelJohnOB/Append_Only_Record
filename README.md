@@ -1,11 +1,15 @@
-# The Record Website is up. I will leave this repo and link to the website.
+# Nodusgraph
+
+The Record is live:
+
+https://nodusgraph.com/
+
+---
 
 ## What is Nodusgraph?
 
-### Nodusgraph represents ideas and their relationships as a graph, where connections are primary and entities are derived from those connections.
+Nodusgraph represents ideas and their relationships as a graph, where connections are primary and entities are derived from those connections.
 
-### It can be understood as a graph database focused on attribution, provenance, and relational truth rather than isolated data.
+It is a graph database focused on attribution, provenance, and relational truth rather than isolated data.
 
-### Every contribution is preserved as part of an append-only system, ensuring that history is not rewritten and that attribution remains intact across time. 
-
-## https://nodusgraph.com/
+All contributions are preserved in an append-only system, ensuring history is not rewritten and attribution remains intact.
