@@ -1,17 +1,11 @@
-# Append_Only_Record
+# The Record Website is up. I will leave this repo and link to the website.
 
-#### This contains the amalgamation of ideas leading to accountability infrastructure
+## What is Nodusgraph?
 
+### Nodusgraph represents ideas and their relationships as a graph, where connections are primary and entities are derived from those connections.
 
+### It can be understood as a graph database focused on attribution, provenance, and relational truth rather than isolated data.
 
-### /entries/ = append-only markdown files
-### /hashes/ = append-only hash ledger files
-### /site/  = generated site output
+### Every contribution is preserved as part of an append-only system, ensuring that history is not rewritten and that attribution remains intact across time. 
 
-
-#### use for hash: openssl sha256 name_of_file.txt
-#### use for file format ISO timestamp
-
-## TO DO: 
-
-#### -Add LICENSE file 
+## https://nodusgraph.com/
